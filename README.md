@@ -1,1 +1,1 @@
-# program
+First Git repository 
